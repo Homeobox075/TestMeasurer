@@ -2,7 +2,7 @@ The Measurer 파일의 압축을 풀고 C:\Program Files (x86)\Steam\steamapps\c
 
 Custom Regions Support 모드와 Warp Menu 모드가 필요하며, 아무 캠페인이나 시작한 뒤 일시정지 화면에서 MRTH(운송 허브, Transport Hub) 또는 MRDC(데이터 센터, Data Center) 지역의 방을 선택하여 이동하면 됩니다
 
-테스트 버전이라 생물도 음식도 없으므로 개발자 도구를 이용해서 허기를 채워야 하며, 모드를 이용해 생물을 스폰할 경우 전용 위협 음악이 재생됩니다 (운송 허브 한정)
+테스트 버전이라 생물도 음식도 없으므로 개발자 도구를 이용해서 허기를 채워야 합니다
 
 MeasurerSkin 파일은 계측자와 중심원리의 스킨을 적용할 수 있는 모드이며, Dress my slugcat 모드가 필요합니다
 
