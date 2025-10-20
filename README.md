@@ -4,4 +4,4 @@ Custom Regions Support 모드와 Warp Menu 모드가 필요하며, 아무 캠페
 
 테스트 버전이라 생물도 음식도 없으므로 개발자 도구를 이용해서 허기를 채워야 하며, 모드를 이용해 생물을 스폰할 경우 전용 위협 음악이 재생됩니다 (운송 허브 한정)
 
-MeasurerSkin 파일은 계측자 스킨 파일이며, DMS Template 모드를 설치한 뒤 (아마 창작마당이 아닌 깃허브에서 다운받아야 할겁니다) C:\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods\myskinmod\dressmyslugcat 경로에 파일을 옮기면 적용 가능합니다
+MeasurerSkin 파일은 계측자 스킨 파일이며, Dress My Slugcat 모드를 설치한 뒤 C:\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods\myskinmod\dressmyslugcat 경로에 파일을 옮기면 적용 가능합니다
